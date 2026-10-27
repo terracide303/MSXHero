@@ -3,6 +3,7 @@
 # MSXHero — an MSX2+ computer on the IcePi Zero XL (Lattice ECP5 45F)
 
 [![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-FFDD00?style=flat)](https://buymeacoffee.com/terracide)
+*This is free and always will be: no paywall, no catch. I build it in my spare time and don't earn a cent from it. If it saved you an evening or brought your gear back to life, a beer would honestly help me a lot to keep going.*
 
 Status: work in progress. The core builds and boots in simulation; it has not run on hardware yet.
 The whole design synthesizes, fits the 45F (75% logic), routes, and packs a bitstream. The SDRAM is
